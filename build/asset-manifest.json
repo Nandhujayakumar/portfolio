@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1db97df3.css",
+    "main.js": "/static/js/main.e43f8456.js",
+    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/text-to-img.png": "/static/media/text-to-img.712784635c0e5ebdc7e3.png",
+    "static/media/spotify.png": "/static/media/spotify.f37b8a17f43ca0b1ea20.png",
+    "static/media/youtube clone.jpg": "/static/media/youtube clone.0cea63f9f6e1f872af75.jpg",
+    "static/media/vs code-google colab.png": "/static/media/vs code-google colab.7e9074d101d513442d3f.png",
+    "static/media/disease-pred.png": "/static/media/disease-pred.54b1d99ecada3526bc63.png",
+    "static/media/travel-advisory.jpeg": "/static/media/travel-advisory.f0db39e23624742add62.jpeg",
+    "static/media/logo1.svg": "/static/media/logo1.eb92fdc15396f3f9a62620118c9a156d.svg",
+    "index.html": "/index.html",
+    "main.1db97df3.css.map": "/static/css/main.1db97df3.css.map",
+    "main.e43f8456.js.map": "/static/js/main.e43f8456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db97df3.css",
+    "static/js/main.e43f8456.js"
+  ]
+}
